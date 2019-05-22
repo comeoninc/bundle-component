@@ -1,0 +1,25 @@
+{
+  "name": "amich-ui",
+  "version": "1.0.0",
+  "description": "Material Components Web and Favorite Styles.",
+  "main": "App.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comeoninc/amich-ui.git"
+  },
+  "keywords": [
+    "comeoninc",
+    "amich-ui",
+    "amichan",
+    "comeonstore"
+  ],
+  "author": "comeoninc.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comeoninc/amich-ui/issues"
+  },
+  "homepage": "https://github.com/comeoninc/amich-ui#readme"
+}
