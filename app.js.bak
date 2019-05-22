@@ -1,6 +1,0 @@
-import {html, render} from 'lit-html';
-
-entry: ['./app.scss', './app.js']
-output: {
-  filename: 'bundle.js'
-}
