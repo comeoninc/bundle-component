@@ -52,7 +52,7 @@ module.exports = {
           {
             loader: 'sass-loader',
             options: {
-			importer: materialImporter
+              includePaths: ['./node_modules'],
             },
           }
         ],

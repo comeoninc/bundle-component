@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<script type="module" src="node_modules/@material/auto-init/index.js"></script>
+
+
+  </head>
+  <body>Hello World</body>
+</html>
